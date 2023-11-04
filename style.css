@@ -1,0 +1,43 @@
+.big-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 1fr 3fr 1fr;
+}
+
+.small-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 1fr;
+}
+
+.smaller-container{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 5fr;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: #004222;
+}
+
+.white{
+    background-color: white;
+}
+
+.form{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size:30px;
+    color: #004222;
+    font-weight: bold;
+    padding: 20px 0px 0px 10px;
+}
+
+input{
+    width: 90%;
+    height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
