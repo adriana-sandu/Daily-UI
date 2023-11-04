@@ -19,7 +19,7 @@
 h2{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 60px;
+    font-size: 50px;
     color: #004222;
 }
 
@@ -30,7 +30,7 @@ h2{
 .form{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    font-size:30px;
+    font-size:25px;
     color: #004222;
     font-weight: bold;
     padding: 20px 0px 0px 10px;
@@ -38,6 +38,9 @@ h2{
 
 input{
     width: 90%;
-    height: 30px;
+    height: 25px;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
+    border: none;
+    border-bottom: 2px solid black;
 }
